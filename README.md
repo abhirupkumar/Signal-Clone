@@ -5,10 +5,10 @@ https://expo.dev/@abhirup/SignalClone
 
 ## Screenshots
 
-![Home](/screenshots/home.jpg?raw=true)
-![Add A New Chat](/screenshots/addchat.jpg?raw=true)
-![Login](/screenshots/login.jpg?raw=true)
-![Sign Up](/screenshots/signup.jpg?raw=true)
+![Home](/screenshots/home.jpg)
+![Add A New Chat](/screenshots/addchat.jpg)
+![Login](/screenshots/login.jpg)
+![Sign Up](/screenshots/signup.jpg)
 
 ## Tech Stack
 
